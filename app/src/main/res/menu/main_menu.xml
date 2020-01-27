@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app ="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/detectBordes"
+        android:title="DetectBordes"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/detectColour"
+        android:title="DetectColour"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/detectBlod"
+        android:title="DetectBlod"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/detectFase"
+        android:title="DetectFase"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/FindFeatures"
+        android:title="FindFeatures"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/Posterize"
+        android:title="Posterize"
+        app:showAsAction="never">
+    </item>
+</menu>
